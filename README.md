@@ -10,12 +10,42 @@ to build **stable** and **_secure_ applications**.
 
 </div>
 
-# Why?
+# Why? 
 
 In one word: **security**.
 
 No other Operating System - in it's **`default` configuration** -
 comes _close_ to the **`OpenBSD` track record** of security.
+
+`Linux` distributions can be
+["hardened"](https://ubuntu.com/blog/what-is-system-hardening-definition-and-best-practices)
+to _approach_ the security of `OpenBSD`.
+But it's a **_manual_ process** that requires knowledge/skill
+not automatic/default.
+
+We have spent many thousands of hours
+[sysadmining](https://en.wiktionary.org/wiki/sysadmining)
+various servers/platforms running `Linux`.
+<!--
+Everything from
+[`SUSE`](https://en.wikipedia.org/wiki/SUSE_Linux_Enterprise),
+[`Fedora`](https://en.wikipedia.org/wiki/Fedora_Linux),
+[`Red Hat`](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux)
+[`Debian`](https://en.wikipedia.org/wiki/Debian),
+[`Ubuntu`](https://en.wikipedia.org/wiki/Ubuntu)
+(including several derivatives),
+to
+[`Alpine`](https://en.wikipedia.org/wiki/Alpine_Linux)
+and
+[`Arch`](https://en.wikipedia.org/wiki/Arch_Linux).
+-->
+They all have their benefits and quirks.
+But it all comes back to **security**;
+**`OpenBSD` does it _right_ by `default`**.
+
+## Why Does Security _Matter_? 
+
+
 
 # What?
 
@@ -45,6 +75,8 @@ But it still contains
 [proprietary]()
 binaries 
 
+https://en.wikipedia.org/wiki/Theo_de_Raadt#Free_driver_advocacy
+
 [wikipedia.org/wiki/The_Free_Software_Definition](https://en.wikipedia.org/wiki/The_Free_Software_Definition)
 -->
 
@@ -65,7 +97,6 @@ make the effort to.
 
 > If you are reading this,
 > please let us know _your_ reason for learning `OpenBSD`. 💬
-> 
 
 # References & Recommended Reading
 
@@ -73,3 +104,8 @@ make the effort to.
 [openbsd.org](https://www.openbsd.org)
 - _Unofficial_ Handbook:
 [openbsdhandbook.com](https://www.openbsdhandbook.com/)
+- 40 Linux Server Hardening Security Tips:
+[cyberciti.biz/tips/linux-security.html](https://www.cyberciti.biz/tips/linux-security.html)
+(most of these are done by `default` in `OpenBSD`)
+
+CONTINUE: https://www.ovhcloud.com/en-gb/public-cloud/prices/#compute
