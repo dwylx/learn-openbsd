@@ -10,7 +10,7 @@ to build **stable** and **_secure_ applications**.
 
 </div>
 
-# Why? 
+# Why? 🤷‍♀️
 
 In one word: **security**.
 
@@ -19,8 +19,9 @@ comes _close_ to the **`OpenBSD` track record** of security.
 
 `Linux` distributions can be
 ["hardened"](https://ubuntu.com/blog/what-is-system-hardening-definition-and-best-practices)
-to _approach_ the security of `OpenBSD`.
-But it's a **_manual_ process** that requires knowledge/skill
+to _approach_ the security of `OpenBSD`.<br />
+But hardening is a **_manual_ process**
+that requires knowledge/skill
 not automatic/default.
 
 We have spent many thousands of hours
@@ -39,13 +40,25 @@ to
 and
 [`Arch`](https://en.wikipedia.org/wiki/Arch_Linux).
 -->
-They all have their benefits and quirks.
+While all `Linux` distros  have their benefits and quirks,
+
 But it all comes back to **security**;
 **`OpenBSD` does it _right_ by `default`**.
 
-## Why Does Security _Matter_? 
+## Why Does Security _Matter_? 🔐
 
+Your
+**personal data**
+is your most precious thing.
+Everything from your identity to your inbox and todo list
+and personal photos need to be kept safely.
 
+People/Organization/Companies
+that do _not_ take the privacy of your personal data seriously
+should not be _allowed_ to operate.
+
+If you plan to store _any_ form of personal data,
+protect it like it's someone's _life_.
 
 # What?
 
@@ -82,10 +95,11 @@ https://en.wikipedia.org/wiki/Theo_de_Raadt#Free_driver_advocacy
 
 ## Retro Vibes 📜
 
+The [openbsd.org](https://www.openbsd.org)
+homepage has _strong_ **1990's nostalgia**:
+
 <img src="https://github.com/user-attachments/assets/a1cba512-68c2-4b2c-acfc-d0780dcd8ff0" />
 
-The [openbsd.org](https://www.openbsd.org)
-homepage has _strong_ **1990's nostalgia**.
 It's _purposefully_ simple as a guiding principle,
 don't let that put you off if you're used to polished project pages.
 
