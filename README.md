@@ -6,7 +6,7 @@
 see: https://github.com/nelsonic/nelsonic.github.io/issues/912 -->
 
 Learn to use the **`OpenBSD` Operating System**
-to build **stable** and **_secure_ applications**.
+to build and **deploy stable** and **_secure_ applications**.
 
 </div>
 
@@ -56,11 +56,11 @@ It's [not even close](https://github.com/dwylx/learn-openbsd/issues/11)!
 Your
 **personal data**
 is your most precious thing.
-Everything from your identity to your inbox and todo list
-and personal photos need to be kept safely.
+Everything from your **identity** to your **inbox** and **todo list**
+your home address and personal photos need to be **stored securely**.
 
 People/Organization/Companies
-that do _not_ take the privacy of your personal data seriously
+that do _not_ take the privacy/security of your personal data seriously
 should not be _allowed_ to operate.
 
 If you plan to store _any_ form of personal data,
@@ -111,12 +111,40 @@ don't let that put you off if you're used to polished project pages.
 
 # Who?
 
-**_Anyone_ can learn** how to use `OpenBSD`.
-Only **_proactive_ people** who care _deeply_ about security will
-make the effort to.
+**_Anyone_ can learn** how to use `OpenBSD`.<br />
+Only **_proactive_ people** who **care _deeply_ about security** will
+make the effort.
 
 > If you are reading this,
-> please let us know _your_ reason for learning `OpenBSD`. 💬
+> please let us know
+> by _starring_ the repo on `GitHub`. ⭐
+> And if you have any questions relating to `OpenBSD`,
+> please 
+> [open an issue](https://github.com/dwylx/learn-openbsd/issues). 💬
+
+## Why Am _I_ Learning `OpenBSD`
+
+**I want** to **host _all_** our **projects** on **`OpenBSD`** -
+on either Bare Metal or VMs -
+**so that** I can have more assurance that data is more secure.
+
+I will **pay** an **_experienced_ `OpenBSD` Sysadmin**
+to review all configuration prior to storing any _customer_ data on it.
+But given that I'm reading all the original source material
+and _the_
+[**Book**](https://github.com/dwylx/learn-openbsd/issues/3#issuecomment-4054849148)
+recommended by
+[Theo de Raadt](https://en.wikipedia.org/wiki/Theo_de_Raadt)
+I expect to be competent in due course.
+
+## Why _You_ Should _Proactively_ Learn `OpenBSD`?
+
+Having worked in high-security environments,
+I know there is a **sizeable market demand**
+for people who have a
+[security mindset](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html).
+Adding `OpenBSD` to your toolkit
+will show 
 
 # References & Recommended Reading
 
