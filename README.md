@@ -18,7 +18,7 @@ No other Operating System - in it's **`default` configuration** -
 comes _close_ to the **`OpenBSD` track record** of security.
 
 `Linux` distributions can be
-["hardened"](https://ubuntu.com/blog/what-is-system-hardening-definition-and-best-practices)
+[hardened](https://ubuntu.com/blog/what-is-system-hardening-definition-and-best-practices)
 to _approach_ the security of `OpenBSD`.<br />
 But hardening is a **_manual_ process**
 that requires knowledge/skill
@@ -41,9 +41,15 @@ and
 [`Arch`](https://en.wikipedia.org/wiki/Arch_Linux).
 -->
 While all `Linux` distros  have their benefits and quirks,
-
-But it all comes back to **security**;
+none have the **security track record** of `OpenBSD`
 **`OpenBSD` does it _right_ by `default`**.
+
+Compare the number of **Vulnerability Trends Over Time** between
+[Linux](https://www.cvedetails.com/vendor/33/Linux.html)
+and
+[`OpenBSD`](https://www.cvedetails.com/vendor/97/)
+
+It's [not even close](https://github.com/dwylx/learn-openbsd/issues/11)!
 
 ## Why Does Security _Matter_? 🔐
 
