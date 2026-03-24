@@ -44,12 +44,17 @@ While all `Linux` distros  have their benefits and quirks,
 none have the **security track record** of `OpenBSD`
 **`OpenBSD` does it _right_ by `default`**.
 
-Compare the number of **Vulnerability Trends Over Time** between
-[Linux](https://www.cvedetails.com/vendor/33/Linux.html)
+Compare the number of **Vulnerability** Trends Over Time
+between
+[Linux](https://www.cvedetails.com/version-list/33/47/1/Linux-Linux-Kernel.html)
 and
-[`OpenBSD`](https://www.cvedetails.com/vendor/97/)
+[`OpenBSD`](https://www.cvedetails.com/version-list/97/2649/1/Openbsd-Openbsd.html)
+it's [not even _close_](https://github.com/dwylx/learn-openbsd/issues/11)!
+Just two security vulnerabilities reported:
 
-It's [not even close](https://github.com/dwylx/learn-openbsd/issues/11)!
+<img src="https://github.com/user-attachments/assets/8c5a7cdb-f07e-476c-9d9d-9c62bebceb43" />
+
+
 
 ## Why Does Security _Matter_? 🔐
 
